@@ -3,8 +3,10 @@ HTML5 Spezifikations-Übersicht  [![Flattr this git repo](http://api.flattr.com/
 
 Illustriert das Verhältnis von diversen Webtechnologie-Spezifikationen zueinander, wahlweise in schwarz oder in weiß. Erhebt keinen Anspruch auf Richtigkeit oder Vollständigkeit :)
 
-**Wichtig:** Die weiße SVG-Version über das Shellscript generieren und nicht manuell bearbeiten.
+![SpecGraph in Weiß](https://github.com/SirPepe/SpecGraph/raw/master/graph_w.png)
 
-[![Creative Commons Lizenzvertrag](http://i.creativecommons.org/l/by/3.0/de/88x31.png)]
+**Wichtig:** Die weiße SVG-Version über das Shellscript aus der schwarzen Fassung generieren und nicht manuell bearbeiten.
+
+![Creative Commons Lizenzvertrag](http://i.creativecommons.org/l/by/3.0/de/88x31.png)
 
 SpecGraph von Peter Kröner steht unter einer [Creative Commons Namensnennung 3.0 Deutschland Lizenz](http://creativecommons.org/licenses/by/3.0/de/)
