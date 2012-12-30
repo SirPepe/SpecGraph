@@ -8,6 +8,7 @@ module.exports.dictionary = {
   'Selektoren': 'Selectors',
   'mationen': 'mations',
   'Neue': 'New',
-  'Elemente': 'Elements'
+  'Elemente': 'Elements',
+  'Webtechnologien': 'Web technologies'
 
 };
