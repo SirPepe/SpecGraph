@@ -1,4 +1,5 @@
 var fs = require('fs');
+var spawn = require('child_process').spawn;
 
 var escapeStringForRegExp = function (str){
   return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
@@ -26,6 +27,24 @@ translate = function(fileName, lang){
   return newFileName;
 };
 
+toPNG = function(fileName){
+  newFileName = fileName.split('.')[0] + '.png';
+  var inkscape = spawn('inkscape', [
+    fileName,
+    '--export-png=../' + newFileName
+  ]);
+};
 
-createWhite('graph.svg'); // German
-createWhite(translate('graph.svg', 'en')); // English
+
+// German
+de = 'graph.svg';
+de_w = createWhite('graph.svg');
+toPNG(de);
+toPNG(de_w);
+
+
+// English
+en = translate('graph.svg', 'en');
+en_w = createWhite(en);
+toPNG(en);
+toPNG(en_w);
