@@ -1,0 +1,2 @@
+src/*.svg
+!src/graph.svg
