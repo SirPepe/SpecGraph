@@ -50,15 +50,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="570.00979"
+     inkscape:zoom="0.64150605"
+     inkscape:cx="671.52871"
      inkscape:cy="572.6581"
      inkscape:document-units="px"
-     inkscape:current-layer="g5221-7-6-53"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
@@ -976,38 +976,37 @@
            id="tspan5382">Events</tspan></text>
     </g>
     <g
-       id="g5453"
-       transform="translate(448,80.000002)">
+       id="g3996">
       <path
-         transform="matrix(0.75,0,0,0.75,-336,-191.63782)"
-         d="m 896,464 c 0,35.34622 -28.65378,64 -64,64 -35.34622,0 -64,-28.65378 -64,-64 0,-35.34622 28.65378,-64 64,-64 35.34622,0 64,28.65378 64,64 z"
+         transform="matrix(0.75,0,0,0.75,112,-111.63782)"
+         d="m 896,464 a 64,64 0 1 1 -128,0 64,64 0 1 1 128,0 z"
          sodipodi:ry="64"
          sodipodi:rx="64"
          sodipodi:cy="464"
          sodipodi:cx="832"
          id="path3900-4-0-5-4-3-7-5-1"
-         style="fill:#000000;fill-opacity:1;stroke:#18597a;stroke-width:5.33333349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.33333333, 5.33333333;stroke-dashoffset:0"
+         style="fill:#000000;fill-opacity:1;stroke:#40bd4e;stroke-width:5.33333349000000023;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.33333333000000032, 5.33333333000000032;stroke-dashoffset:0"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
          id="text3902-0-87-5-3-8-8-4-8"
-         y="142.73511"
-         x="287.30768"
+         y="222.73511"
+         x="735.30768"
          style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:17px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="142.73511"
-           x="287.30768"
+           y="222.73511"
+           x="735.30768"
            sodipodi:role="line"
            id="tspan3176">Full-</tspan><tspan
            style="font-size:17px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="163.98511"
-           x="287.30768"
+           y="243.98511"
+           x="735.30768"
            sodipodi:role="line"
            id="tspan3182">screen</tspan><tspan
            style="font-size:17px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-           y="185.23511"
-           x="287.30768"
+           y="265.23511"
+           x="735.30768"
            sodipodi:role="line"
            id="tspan3178">API</tspan></text>
     </g>
